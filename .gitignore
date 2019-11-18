@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+migrations/
+venv/
+logs/
+.DS_Store
+*.pyc
+app.db
